@@ -42,7 +42,7 @@ A sleek and responsive booking interface for **The Wild Oasis**, where guests ca
 - **Authentication:** NextAuth (Google Provider)
 - **Form Handling:** Native HTML FormData + React Context
 - **State Management:** Context API
-- **API & Backend:** Connected to a separate backend API (not in this repo)
+- **API & Backend:** SupaBase
 - **Deployment:** Vercel
 
 ---
